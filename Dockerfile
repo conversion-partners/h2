@@ -1,7 +1,5 @@
 FROM java:7
 
-MAINTAINER Artur Zeiler <artur.zeiler@ww-informatik.de>
-
 ENV DOWNLOAD http://www.h2database.com/h2-2014-04-05.zip
 ENV DATA_DIR /opt/h2-data
 
